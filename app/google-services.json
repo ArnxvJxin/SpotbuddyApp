@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "719284194490",
+    "firebase_url": "https://spotbuddy-8c653-default-rtdb.firebaseio.com",
+    "project_id": "spotbuddy-8c653",
+    "storage_bucket": "spotbuddy-8c653.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719284194490:android:ff963a9c7824e810dd4683",
+        "android_client_info": {
+          "package_name": "com.example.spotbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-jeIA_W13DUdchGbb3QMJwdSAF2Xxapc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
